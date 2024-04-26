@@ -5,3 +5,6 @@ I put on 2 headers for no reason.
 ``` Javascript
 var myVar = "Hello World!"
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
